@@ -86,7 +86,7 @@ public func failStringsEqualWithDiff(
   let actualLines = actual.split(separator: "\n", omittingEmptySubsequences: false)
   let expectedLines = expected.split(separator: "\n", omittingEmptySubsequences: false)
 
-  let difference = actualLines.difference(from: expectedLines)
+  let difference = actualLines.differenceForTests(from: expectedLines)
 
   var result = ""
 
