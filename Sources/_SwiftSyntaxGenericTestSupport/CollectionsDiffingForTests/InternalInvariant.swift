@@ -10,6 +10,9 @@
 //
 //===----------------------------------------------------------------------===//
 
+// Modifications copyright (c) 2025 Dmitry Kotenko:
+// - Adapted for use in my swift-syntax fork
+
 /// Internal checks.
 ///
 /// Internal checks are to be used for checking correctness conditions in the

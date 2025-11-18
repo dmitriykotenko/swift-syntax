@@ -10,6 +10,9 @@
 //
 //===----------------------------------------------------------------------===//
 
+// Modifications copyright (c) 2025 Dmitry Kotenko:
+// - Adapted for use in my swift-syntax fork
+
 // MARK: Diff application to RangeReplaceableCollection
 
 extension CollectionDifferenceForTests {
