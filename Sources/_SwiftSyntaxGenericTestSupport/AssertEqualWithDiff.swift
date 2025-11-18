@@ -10,6 +10,9 @@
 //
 //===----------------------------------------------------------------------===//
 
+// Modifications copyright (c) 2025 Dmitry Kotenko:
+// - implementation of failStringsEqualWithDiff() made working on iOS 12
+
 /// Defines the location at which the a test failure should be anchored. This is typically the location where the
 /// assertion function is called.
 public struct TestFailureLocation {

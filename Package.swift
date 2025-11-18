@@ -1,5 +1,8 @@
 // swift-tools-version: 5.9
 
+// Modifications copyright (c) 2025 Dmitry Kotenko:
+// - Updated minimum iOS version
+
 import Foundation
 import PackageDescription
 

@@ -10,6 +10,9 @@
 //
 //===----------------------------------------------------------------------===//
 
+// Modifications copyright (c) 2025 Dmitry Kotenko:
+// - Adapted for use in my swift-syntax fork
+
 /// A collection of insertions and removals that describe the difference
 /// between two ordered collection states.
 public struct CollectionDifferenceForTests<ChangeElement> {
